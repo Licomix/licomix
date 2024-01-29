@@ -1,7 +1,7 @@
 <h1 align="center">Ahoy 🐸, I'm JellyTyan</h1>
 <h3 align="center">Just a man from internet. Not so interesting</h3>
 
-- 🔭 I’m currently working on **My own Discord bot**
+- 🔭 I’m currently working on **My own Discord bot.**
 
 - 🤝 I’m looking for help with **Project Emilia, Game.**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **lycomilopster@gmail.com**
 
-- ⚡ Fun fact about me **All hat, no cattle**
+- ⚡ Fun fact about me **All hat, no cattle.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
