@@ -1,23 +1,24 @@
 <h1 align="center">Ahoy 🐸, I'm JellyTyan</h1>
-<h3 align="center">Just a man from internet. Not so interesting</h3>
+<h3 align="center">Just a man from internet</h3>
 
-- 🔭 I’m currently working on **My own Discord bot.**
+- 🔭 I’m currently working on **3 Discord bots and 1 Telegram bot**
 
 - 🤝 I’m looking for help with **Project Emilia, Game.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/jellytyan](https://linktr.ee/jellytyan)
 
-- 💬 Ask me about **Nothing, please.**
-
-- 📫 How to reach me **lycomilopster@gmail.com**
+- 💬 Ask me about **Something interesting**
 
 - ⚡ Fun fact about me **All hat, no cattle.**
+
+- 🌱 I’m currently learning MMD
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/jellytyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jellytyan" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCMrQ1oUD6GtvmvThWzlxZnQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jellytyan" height="30" width="40" /></a>
 <a href="https://discord.gg/77keb7smna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jellytyan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/jellyfumo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="takiyo04" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +26,10 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jellytyan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jellytyan" /></a></p><br><br>
+
+<h3 align="left">Activity and Trophies</h3>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Licomix&show_icons=true&theme=chartreuse-dark)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=licomix&column=5&margin-w=15&margin-h=15&theme=juicyfresh)
