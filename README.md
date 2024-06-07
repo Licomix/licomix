@@ -32,4 +32,4 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Licomix&show_icons=true&theme=chartreuse-dark)
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=licomix&column=5&margin-w=15&margin-h=15&theme=juicyfresh)
+[![trophy](https://github-profile-trophy.vercel.app/?username=licomix&column=4&margin-w=15&margin-h=15&theme=juicyfresh)
