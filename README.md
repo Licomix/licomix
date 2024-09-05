@@ -1,7 +1,7 @@
 <h1 align="center">Ahoy 🐸, I'm JellyTyan</h1>
-<h3 align="center">Just a man from internet</h3>
+<h3 align="center">Nightmargin - To Dream (Oneshot OST). Listen this and take relax :3</h3>
 
-- 🔭 I’m currently working on **3 Discord bots and 1 Telegram bot**
+- 🔭 I’m currently working on **Charlotte Telegram Bot**
 
 - 🤝 I’m looking for help with **Project Emilia, Game.**
 
